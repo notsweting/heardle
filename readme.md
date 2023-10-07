@@ -2,7 +2,7 @@
 
 janked up python game i cooked up in 30 minutes
 
-place your mp3 files in a folder called "music" and it will pick random songs to play to you from there
+place your mp3 files in a subfolder called "music" and it will pick random songs to play to you from there
 
 as long as your answer is in the filename it will accept it as an answer
 
